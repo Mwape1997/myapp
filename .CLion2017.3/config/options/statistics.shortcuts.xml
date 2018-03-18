@@ -2,11 +2,14 @@
   <component name="ShortcutsCollector">
     <counts>
       <entry shortcut="Alt+9" count="1" />
-      <entry shortcut="Backspace" count="2" />
+      <entry shortcut="Backspace" count="5" />
       <entry shortcut="Ctrl+Alt+S" count="3" />
+      <entry shortcut="Ctrl+C" count="1" />
       <entry shortcut="Ctrl+V" count="1" />
-      <entry shortcut="Ctrl+Z" count="2" />
-      <entry shortcut="Enter" count="1" />
+      <entry shortcut="Ctrl+Z" count="5" />
+      <entry shortcut="Down" count="1" />
+      <entry shortcut="Enter" count="5" />
+      <entry shortcut="Tab" count="1" />
     </counts>
   </component>
 </application>
